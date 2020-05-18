@@ -72,9 +72,9 @@ setInterval(() => {
 //         alpha: value3,
 //     });
 
-//     /*favDot.show({
+//     favDot.show({
 //         alpha: value3,
-//     });*/
+//     });
 // }, 50);
 
 // let koef4 = 1;
